@@ -1,10 +1,10 @@
 var cacheName = 'hola-pwa';
 ///Actualizando Version de Prueba
 var filesToCache = [
-  './',
-  './index.html',
-  './css/style.css',
-  './js/main.js'
+  '/',
+  '/index.html',
+  '/css/style.css',
+  '/js/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
