@@ -1,4 +1,5 @@
 var cacheName = 'hola-pwa';
+///Actualizando Version de Prueba
 var filesToCache = [
   './',
   './index.html',
